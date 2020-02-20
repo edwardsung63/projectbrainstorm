@@ -3,10 +3,27 @@ Group Name: "*GrOuP* **NAmE**"
 
 ## Domain of interest
 * Why are you interested in this field/domain?
+We are interested in the field of mobile apps because with the rise of smartphone usage in the world the number of apps in the App Store has also been growing at an exponential rate. According to Apple and Google in 2019 there are 2.2 million and 2.8 million apps available for download on their respective App Stores. Everyone that owns a smartphone device has their own unique conglomeration of different types of apps. It would be interesting to find out what types of apps are the most downloaded and utilized. Smartphone apps are created to serve as tools or entertainment in our everyday life and it would be interesting to find out which type of apps is most widely used.
+
 
 * What other examples of data driven project have you found related to this domain (share at least 3)?
+[Mobile App Store (7200 apps)](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
+
+Mobile app data from the Apple App Store in 2017. With millions of apps on the App Store today, it is important to have data sets such as this one to help create apps that can become a top trending app on the iOS App Store.
+
+[17k Apple App Store Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games)
+
+This data set contains information about mobile games on the apple App Store in 2019. With the information from this data set you can determine the overall success of a game, and then work out what factors make a game successful.
+
+[Google Play Store Apps](https://www.kaggle.com/gauthamp10/google-playstore-apps)
+
+This data set was collected from the Google Play store in April 2019. It contains data that can be used to determine what categories of apps are the most downloaded and best rated. 
+
 
 * What data-driven questions do you hope to answer about this domain (share at least 3)?
+What categories of apps are the most downloaded?
+What type of mobile games generate the most revenue?
+What factors determine the overall success of a mobile game?
 
 
 ## Finding Data

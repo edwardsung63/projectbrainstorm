@@ -1,5 +1,7 @@
-# projectbrainstorm
+# Project Brainstorm
 Group Name: "*GrOuP* **NAmE**"
+
+*Group Members: Danell, Rhea, Alex, Edward*
 
 ## Domain of interest
 ### Why are you interested in this field/domain?
